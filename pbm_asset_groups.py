@@ -17,6 +17,7 @@ import QualysAccess
 import shutil
 import webbrowser
 import time
+import qualysapi
 
 instance = QualysAccess.Assets('pbm')
 
