@@ -10,7 +10,7 @@
 OpenStack Access Necessitites:
 URL: http://10.228.128.16/horizon/project/
 Username: bchambers2
-Password: openstack9921!
+Password: **************
 
 Dependencies:  What a bunch of horse shit this was!!!!
 Babel-2.3.4.tar.gz
@@ -46,7 +46,7 @@ from novaclient import client
 
 URL = "http://10.228.128.16:5000/v2.0"
 USER = 'bchambers2'
-PASS = 'openstack9921!'
+PASS = **************
 #PID  = 'sandbox'
 PID  = "55b46aab43d94ede845317e3dd384793"
 
