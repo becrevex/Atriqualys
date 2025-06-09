@@ -1,4 +1,4 @@
-# Programmer: Brent Chambers
+# Programmer: becrevex
 # Date: February 11, 2016
 # Filename: QualysAccess.py
 # Technique: Creating Dynamic Asset Groups from Atrium
