@@ -1,4 +1,4 @@
-# Programmer: Brent Chambers
+# Programmer: Rayshaw
 # Date: February 4, 2016
 # Filename: AtriumTEST.py
 # Technique: Fast Indexing of ATRIUM ASD Inventory Files
