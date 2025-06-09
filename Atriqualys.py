@@ -1,4 +1,4 @@
-# Programmer: Brent Chambers
+# Programmer: becrevex
 # Date: February 15, 2016
 # Filename: atriqualys.py
 # Technique: Atriqualys ASD Inventory Files
